@@ -1,0 +1,26 @@
+Penjelasan lebih lanjut:
+
+- - - 
+
+push(): Menambahkan satu atau lebih elemen ke akhir array.
+pop(): Menghapus elemen terakhir dan mengembalikannya.
+shift(): Menghapus elemen pertama dan mengembalikannya.
+unshift(): Menambahkan satu atau lebih elemen ke awal array.
+concat(): Menggabungkan dua atau lebih array dan mengembalikan array baru.
+slice(): Mengembalikan bagian dari array tanpa mengubah array aslinya.
+splice(): Mengubah konten array dengan menghapus, mengganti, atau menambah elemen.
+indexOf(): Mengembalikan indeks elemen pertama yang ditemukan (atau -1 jika tidak ditemukan).
+lastIndexOf(): Mengembalikan indeks terakhir dari elemen yang ditemukan.
+forEach(): Menjalankan fungsi untuk setiap elemen dalam array.
+map(): Menghasilkan array baru dengan menerapkan fungsi ke setiap elemen.
+filter(): Menghasilkan array baru yang hanya berisi elemen yang lolos kriteria fungsi.
+reduce(): Mengakumulasi nilai dari array menjadi satu nilai berdasarkan fungsi.
+some(): Memeriksa apakah setidaknya satu elemen memenuhi kondisi.
+every(): Memeriksa apakah semua elemen memenuhi kondisi.
+find(): Mengembalikan elemen pertama yang memenuhi kondisi.
+findIndex(): Mengembalikan indeks elemen pertama yang memenuhi kondisi.
+includes(): Memeriksa apakah array berisi elemen tertentu.
+sort(): Mengurutkan elemen array secara in-place.
+reverse(): Membalik urutan elemen array secara in-place.
+
+- - -
